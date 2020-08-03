@@ -1,6 +1,6 @@
-# [Start Bootstrap - Modern Business](https://startbootstrap.com/templates/modern-business/)
+# [Innov8](https://startbootstrap.com/templates/modern-business/)
 
-[Modern Business](https://startbootstrap.com/templates/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+Innov8](https://startbootstrap.com/templates/modern-business/) is a multipurpose, full website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
 
 ## Preview
 
@@ -48,13 +48,12 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+Start Bootstrap was created by and is maintained by **[shubham singh](http://shubhamsinghthakur2907.io/)**.
 
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
+* <http://shubhamsinghthakur2907.io>
+* <https://twitter.com/shubham singh>
+* <https://github.com/shubhamsinghthakur2907>
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
